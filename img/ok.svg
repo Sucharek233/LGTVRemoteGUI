@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- gifted by stephan.com (cc) 2012 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="72px" height="72px" viewBox="0 0 72 72" enable-background="new 0 0 72 72" xml:space="preserve">
+<circle fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" cx="36" cy="36" r="33.5"/>
+<g>
+	<path d="M37.477,35.709c0,10.314-6.294,15.849-13.974,15.849c-7.992,0-13.528-6.205-13.528-15.314
+		c0-9.554,5.893-15.805,13.93-15.805C32.164,20.44,37.477,26.735,37.477,35.709z M14.082,36.156c0,6.473,3.482,12.233,9.644,12.233
+		c6.161,0,9.644-5.67,9.644-12.5c0-6.028-3.125-12.278-9.599-12.278C17.296,23.61,14.082,29.593,14.082,36.156z"/>
+	<path d="M40.525,20.976h3.885v14.51h0.135c0.803-1.161,1.607-2.232,2.365-3.214l9.197-11.296h4.822L50.035,33.745l11.742,17.324
+		H57.18L47.312,36.29l-2.902,3.304v11.475h-3.885V20.976z"/>
+</g>
+</svg>
